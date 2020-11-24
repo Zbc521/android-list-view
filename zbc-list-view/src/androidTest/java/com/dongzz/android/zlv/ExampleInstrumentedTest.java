@@ -1,4 +1,4 @@
-package com.dongzz.android.lv;
+package com.dongzz.android.zlv;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.dongzz.android.lv", appContext.getPackageName());
+        assertEquals("com.dongzz.android.zlv.test", appContext.getPackageName());
     }
 }

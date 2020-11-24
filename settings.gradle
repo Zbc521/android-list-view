@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':zbc-list-view'
 rootProject.name='android-list-view'
